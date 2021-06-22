@@ -1,3 +1,13 @@
+#' Summon a whale for a customisable pick-me-up
+#'
+#' @param what Whatever phrase you want whale to echo
+#'
+#' @return Whale shaped message
+#' @export
+#'
+#' @examples
+#' say("You're whale-come")
+
 say <- function(what = "How are you? I'm whaley good"){
   #Defining the whale ASCII
   whale = "\n            ------ \n           %s \n            ------ \n               \\\   \n                \\\  \n                 \\\
