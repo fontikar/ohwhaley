@@ -4,10 +4,10 @@
 \alias{say}
 \title{Summon a whale for a customisable pick-me-up}
 \usage{
-say(what = "How are you? I'm whaley good")
+say(what)
 }
 \arguments{
-\item{what}{Whatever phrase you want whale to echo}
+\item{what}{Whatever phrase you want whale to echo. If not supplied, a random phrase is chosen}
 }
 \value{
 Whale shaped message
