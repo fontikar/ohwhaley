@@ -1,0 +1,48 @@
+---
+title: "ohwhaley"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ohwhaley}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  warnings = FALSE, 
+  messages = FALSE, 
+  prompt = FALSE,
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
+
+## First things first
+
+`ohwhaley` is a toy project and is still under development. You can install the latest version from [GitHub](https://github.com/) with:
+
+```{r, install, results = "hide"}
+# install.packages("remotes")
+remotes::install_github("fontikar/ohwhaley")
+```
+
+## Take it for a spin
+
+`ohwhaley` contains one function only. `say()` will echo a randomly chosen whale-themed phrase for your enjoyment.
+
+```{r example}
+library(ohwhaley)
+ 
+say() 
+```
+
+Alternatively, you can supply your own phrase
+
+```{r, customise}
+say("I'm beached as bro!!!")
+```
+
