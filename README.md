@@ -19,8 +19,6 @@ install the latest version from [GitHub](https://github.com/) with:
 ``` r
 # install.packages("remotes")
 remotes::install_github("fontikar/ohwhaley")
-#> Skipping install of 'ohwhaley' from a github remote, the SHA1 (3dc17923) has not changed since last install.
-#>   Use `force = TRUE` to force installation
 ```
 
 ## Take it for a spin
@@ -34,7 +32,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            What do you call a pod of noisy whales?        An ORCASTRA! 
+#>            You're whale-come! 
 #>             ------ 
 #>                \   
 #>                 \  
