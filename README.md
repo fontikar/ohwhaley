@@ -1,9 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ohwhaley
+# ohwhaley <img src="inst/figures/imgfile.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
+
+[![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/fontikar/ohwhaley)
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -32,7 +35,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            You're whale-come! 
+#>            Get whale soon! 
 #>             ------ 
 #>                \   
 #>                 \  
