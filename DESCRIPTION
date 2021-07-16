@@ -19,6 +19,9 @@ Suggests:
     rmarkdown,
     testthat (>= 3.0.0)
 Imports:
+    magrittr,
     remotes
 VignetteBuilder: knitr
 Config/testthat/edition: 3
+Depends: 
+    R (>= 2.10)
