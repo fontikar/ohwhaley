@@ -10,7 +10,6 @@
 [![R-CMD-check](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/fontikar/ohwhaley/branch/master/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley?branch=master)
-[![](https://app.codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -39,7 +38,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            I'm having a whale of a time! 
+#>            What do you call a pod of noisy whales?        An ORCASTRA! 
 #>             ------ 
 #>                \   
 #>                 \  
