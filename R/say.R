@@ -18,21 +18,15 @@ say <- function(what){
     `,.__.   ,__.--/
      '._/_.'___.-`
 "
-  #Finding the position of where to print message
-  what_pos_start <-
-    regexpr('%s', whale)[1] - 1
-
-  what_pos_end <- what_pos_start + 3
 
   #If what isn't supplied...
   if(missing(what)){
     what <- phrases %>% sample(size = 1)
   }
 
-  #Combining positions, message and whale together
-  out <- paste0(substr(whale, 1, what_pos_start), #Top of speech bubble
-                what, #User specified message
-                substr(whale, what_pos_end, nchar(whale))) #Bottom of speech bubble + whale
+  #Combining message and whale together with sprintf ("%s" in the whale ASCII is replaced by "what")
+  out <- sprintf(whale, #Speech bubble
+                 what) #User specified message 
 
   #Return whale message
   message(out)
