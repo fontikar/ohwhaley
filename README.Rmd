@@ -25,6 +25,7 @@ library(badger)
 <!-- badges: start -->
 `r badge_devel("fontikar/ohwhaley", "blue")`
 `r badge_lifecycle("experimental", "orange")`
+[![R-CMD-check](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
