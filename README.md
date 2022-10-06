@@ -38,7 +38,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            What do you call a pod of noisy whales?        An ORCASTRA! 
+#>            Everything whale be alright! 
 #>             ------ 
 #>                \   
 #>                 \  
