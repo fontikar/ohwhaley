@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![R-CMD-check](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml)
 [![](https://app.codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley)
+[![codecov](https://codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg?token=sEWGsj6HJ5)](https://codecov.io/gh/fontikar/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
