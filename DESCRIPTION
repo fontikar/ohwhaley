@@ -15,6 +15,7 @@ RoxygenNote: 7.1.1
 URL: https://github.com/fontikar/ohwhaley
 BugReports: https://github.com/fontikar/ohwhaley/issues
 Suggests: 
+    covr,
     knitr,
     rmarkdown,
     testthat (>= 3.0.0)
