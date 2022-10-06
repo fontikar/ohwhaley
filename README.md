@@ -5,8 +5,12 @@
 
 <!-- badges: start -->
 
-[![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/fontikar/ohwhaley)
+[![](https://img.shields.io/badge/devel%20version-1.0.0-blue.svg)](https://github.com/fontikar/ohwhaley)
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/fontikar/ohwhaley/branch/master/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley?branch=master)
+[![](https://app.codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -35,7 +39,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Get whale soon! 
+#>            I'm having a whale of a time! 
 #>             ------ 
 #>                \   
 #>                 \  
