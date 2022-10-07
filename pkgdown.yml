@@ -1,0 +1,11 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  In-the-Wild: In-the-Wild.html
+  ohwhaley: ohwhaley.html
+last_built: 2022-10-07T21:39Z
+urls:
+  reference: https://fontikar.github.io/ohwhaley/reference
+  article: https://fontikar.github.io/ohwhaley/articles
+
