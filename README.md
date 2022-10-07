@@ -8,8 +8,8 @@
 [![](https://img.shields.io/badge/devel%20version-1.0.0-blue.svg)](https://github.com/fontikar/ohwhaley)
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![R-CMD-check](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fontikar/ohwhaley/actions/workflows/R-CMD-check.yaml)
-[![](https://app.codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley)
-[![codecov](https://codecov.io/gh/fontikar/ohwhaley/branch/gha/graph/badge.svg?token=sEWGsj6HJ5)](https://codecov.io/gh/fontikar/ohwhaley)
+[![Codecov test
+coverage](https://codecov.io/gh/fontikar/ohwhaley/branch/master/graph/badge.svg)](https://app.codecov.io/gh/fontikar/ohwhaley?branch=master)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -38,7 +38,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Everything whale be alright! 
+#>            You're whale-come! 
 #>             ------ 
 #>                \   
 #>                 \  
