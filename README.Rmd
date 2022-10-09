@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 library(badger)
 ```
 
-# ohwhaley  <img src="inst/figures/imgfile.png" align="right" alt="" width="120" />
+# ohwhaley  <img src="man/figures/imgfile.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 `r badge_devel("fontikar/ohwhaley", "blue")`

@@ -1,4 +1,33 @@
 url: https://fontikar.github.io/ohwhaley/
 template:
   bootstrap: 5
+  bootswatch: journal
+navbar:
+  bg: primary
+  type: light
+  components:
+    articles:
+      text: Articles
+      menu:
+      - text: "Menu sub-heading"
+      - text: Article name A1
+        href: 'articles/a1.html'
+      - text: Article name A2
+        href: articles/a2.html
+      - text: -------
+      - text: "Another menu subheading"
+      - text: Article name B1
+        href: articles/b1.html
+reference:
+- title: Exported functions
+  desc:  Whaley nice description
+- contents:
+  - say
+- title: Data
+- contents:
+  - cetacean_data
+- title: internal
+  contents:
+  - phrases
+
 

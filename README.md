@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ohwhaley <img src="inst/figures/imgfile.png" align="right" alt="" width="120" />
+# ohwhaley <img src="man/figures/imgfile.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 
@@ -35,7 +35,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Get whale soon! 
+#>            You're whale-come! 
 #>             ------ 
 #>                \   
 #>                 \  

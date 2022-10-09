@@ -2,7 +2,7 @@ Package: ohwhaley
 Title: Messages With A Whale-esque Flair
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Fonti",
+    person(given = "Monti",
            family = "Kar",
            role = c("aut", "cre"),
            email = "f.kar@unsw.edu.au")
